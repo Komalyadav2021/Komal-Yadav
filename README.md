@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Komal Yadav</h1>
-<h3 align="center">A passionate about Flutter (Full Stack developer)from India</h3>
+<h3 align="center">A passionate about Web Development and React.js Development from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komalyadav2021" alt="komalyadav2021" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and App development**
+- 🌱 I’m currently learning **React Js **
 
 - 📫 How to reach me **komalyadav6059@gmail.com**
 
