@@ -14,7 +14,7 @@
 <a href="https://instagram.com/komal_0309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="komal_0309" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kamli_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kamli_21" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/komalyadav6059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="komalyadav6059" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/komal_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="komal_12" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/komal_12](https://leetcode.com/u/Komal__12/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="komal_12" height="30" width="40" /></a>
 <a href="https://discord.gg/9901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9901" height="30" width="40" /></a>
 </p>
 
